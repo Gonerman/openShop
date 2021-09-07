@@ -155,7 +155,7 @@
     .ps__img, .ps5__btn, .ps5__content, .ps5__logo, .ps5__title {
         position: static;
         text-align: center;
-        margin: 10px;
+        margin-bottom: 10px;
     }
     .ps5__content {
         display: flex;
